@@ -1,4 +1,4 @@
-# # Sales Analytics Dashboard
+## Sales Analytics Dashboard
 
 This project analyses sales performance using Power BI to identify key trends and business insights.
 
