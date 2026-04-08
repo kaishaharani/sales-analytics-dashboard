@@ -18,4 +18,4 @@ This project analyses sales performance using Power BI to identify key trends an
 - A small number of products contribute significantly to total sales  
 
 ## Project Preview
-![Dashboard Preview](sales analytics dashboard.jpg)
+![Dashboard Preview](sales-analytics-dashboard.jpg)
